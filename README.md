@@ -116,4 +116,4 @@ Wine Quality Analysis helped build a strong foundation in data exploration and v
 
 Author: T.K.Harini
 
-Linkedin:
+Linkedin: https://www.linkedin.com/posts/harini-t-k-a28289367_oasisinfobyte-oasisinfobytefamily-internship-activity-7411262788981125120-bQfI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFr80oABbdhnn9yz4_4LyRKHyRanQzrm5JM
